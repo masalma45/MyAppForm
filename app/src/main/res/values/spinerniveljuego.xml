@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Niveljuegosfav">
+        <item>Selecccionar nivel</item>
+        <item>Facil</item>
+        <item>Dificil</item>
+        <item>Intermedio</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string-array name="Juegosfav">
+        <item>Selecccionar juego favorito</item>
+        <item>Acciòn</item>
+        <item>Aventura</item>
+        <item>Estrategia</item>
+
+    </string-array>
+</resources>
